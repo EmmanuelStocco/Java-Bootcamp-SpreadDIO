@@ -1,0 +1,6 @@
+javac nomedoprograma.java
+
+java nomedoprogama
+
+
+//ao alterar o arqv precisa compilar novamente
